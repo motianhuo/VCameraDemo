@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <!--<TextView-->
+        <!--android:id="@+id/import_image"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:drawableLeft="@drawable/record_import_photo_selector"-->
+        <!--android:drawablePadding="10dip"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:paddingBottom="10dip"-->
+        <!--android:paddingLeft="20dip"-->
+        <!--android:paddingRight="20dip"-->
+        <!--android:paddingTop="10dip"-->
+        <!--android:text="@string/record_camera_import_image"-->
+        <!--android:textColor="@color/record_text_color_selector" />-->
+
+    <!--<ImageView-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:scaleType="fitXY"-->
+        <!--android:contentDescription="@string/imageview_content_description"-->
+        <!--android:src="@drawable/record_menu_line" />-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/import_video"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:drawableLeft="@drawable/record_import_video_selector"-->
+        <!--android:drawablePadding="10dip"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:paddingBottom="10dip"-->
+        <!--android:paddingLeft="20dip"-->
+        <!--android:paddingRight="20dip"-->
+        <!--android:paddingTop="10dip"-->
+        <!--android:text="@string/record_camera_import_video"-->
+        <!--android:textColor="@color/record_text_color_selector" />-->
+
+</LinearLayout>

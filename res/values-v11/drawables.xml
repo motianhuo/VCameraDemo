@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="record_camera_bg">#2c2c2c</drawable>
+    <drawable name="record_camera_progress">#fcb840</drawable>
+    <drawable name="record_camera_progress_error">#929292</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="weibo_call_share_weibo_text_normal">#F2F2F2</drawable>
+    <drawable name="weibo_call_share_weibo_text_press">#E5E5E5</drawable>
+    <drawable name="cover_track">#64000000</drawable>
+    <drawable name="white">#ffffff</drawable>
+    <drawable name="gray">#c3c3c3</drawable>
+    
+    <drawable name="video_edit_tab_bg_color">#1E1E1E</drawable>
+    
+    <drawable name="music_item_bg_normal">#252527</drawable>
+    <drawable name="music_item_bg_selected">#000000</drawable>
+    
+    <drawable name="progress_background_color">#c3c3c3</drawable>
+
+    <drawable name="import_folder_item_pressed">#434345</drawable>
+</resources>

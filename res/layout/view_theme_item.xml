@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <com.yixia.camera.demo.ui.record.views.BitmapImageView
+        android:id="@+id/icon"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:contentDescription="@string/imageview_content_description"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:id="@+id/selected"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:contentDescription="@string/imageview_content_description"
+        android:scaleType="centerCrop"
+        android:src="@drawable/record_theme_selected"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="60dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/icon"
+        android:layout_marginTop="6dip"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="#797979"
+        android:textSize="11sp" />
+
+</RelativeLayout>

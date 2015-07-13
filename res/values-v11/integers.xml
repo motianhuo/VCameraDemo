@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="theme_version">
+        <item>0</item> <!-- THEME_MUSIC_ASSETS MusicAssets.zip-->
+        <item>0</item> <!-- THEME_EMPTY Empty.zip-->
+        <item>1</item> <!-- THEME_VIDEO_COMMON Common.zip-->
+        <item>0</item> <!-- THEME_FILTER_ASSETS FilterAssets.zip-->
+        <item>1</item> <!-- THEME_MUSIC_VIDEO_ASSETS MusicVideoAssets.zip-->
+    </integer-array>
+
+</resources>

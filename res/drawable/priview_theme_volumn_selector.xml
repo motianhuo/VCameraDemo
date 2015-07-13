@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/preview_music_theme_disable" android:state_checked="true"/>
+    <item android:drawable="@drawable/preview_music_theme"/>
+
+</selector>

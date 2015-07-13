@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 滤镜 -->
+    <string-array name="theme_filter_order">
+        <item>Empty</item>
+        <item>7AM</item>
+        <item>1974</item>
+        <item>Absinth</item>
+        <item>Stark</item>
+        <item>Papilio</item>
+        <item>Ice</item>
+        <item>Professional</item>
+        <item>Smoky</item>
+        <item>Stage</item>
+    </string-array>
+    <!-- 主题 -->
+    <string-array name="theme_order">
+        <item>Shining</item>
+        <item>Dreamworld</item>
+        <item>Love</item>
+        <item>Fashion</item>
+        <item>SunShine</item>
+        <item>Magic</item>
+        <item>Hawaii</item>
+        <item>Pulse</item>
+    </string-array>
+</resources>

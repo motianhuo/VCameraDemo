@@ -1,0 +1,36 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <com.example.wechat01.widght.PullDownListView
+        android:id="@+id/pullDownListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background= "#424242"
+        android:fillViewport="true"
+        android:scrollbars="none" >
+
+        <RelativeLayout
+            android:id="@+id/layoutHeader"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"  >
+
+            <com.example.wechat01.widght.EyeView
+                android:id="@+id/eyeView"
+                android:layout_width="60dp"
+                android:layout_height="40dp" 
+                android:layout_centerInParent="true"
+                />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutFooter"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_alignParentBottom="true" >
+
+           
+        </RelativeLayout>
+    </com.example.wechat01.widght.PullDownListView>
+
+</LinearLayout>

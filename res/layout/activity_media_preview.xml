@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/include_tilte_record" />
+
+    <RelativeLayout
+        android:id="@+id/preview_layout"
+        android:layout_width="match_parent"
+        android:layout_height="200dip" >
+
+        <com.yixia.camera.demo.ui.record.views.ThemeSufaceView
+            android:id="@+id/preview_theme"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ImageView
+            android:id="@+id/play_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:contentDescription="@string/imageview_content_description"
+            android:src="@drawable/play_big"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:id="@+id/loading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_margin="15dip"
+            android:background="@drawable/uploader_dialog_bg"
+            android:paddingBottom="10dip"
+            android:paddingLeft="15dip"
+            android:paddingRight="15dip"
+            android:paddingTop="15dip" >
+
+            <ProgressBar
+                android:id="@android:id/progress"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@android:id/message"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dip"
+                android:layout_toRightOf="@android:id/progress"
+                android:text="@string/record_preview_building"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="65dip"
+        android:background="#1e1e1e"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="9dip"
+        android:paddingRight="9dip" >
+
+        <TextView
+            android:id="@+id/video_preview_music"
+            android:layout_width="0dip"
+            android:layout_height="34dip"
+            android:layout_weight="1.0"
+            android:background="@drawable/preview_music_bg"
+            android:gravity="center"
+            android:text="@string/record_preview_music_nothing"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+        <CheckBox
+            android:id="@+id/video_preview_theme_volume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="9dip"
+            android:background="@drawable/priview_theme_volumn_selector"
+            android:button="@null"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/video_preview_video_volume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="6dip"
+            android:background="@drawable/priview_orig_volumn_selector"
+            android:button="@null"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/edit_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#1e1e1e"
+        android:orientation="vertical" >
+
+        <HorizontalScrollView
+            android:id="@+id/theme_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1.0"
+            android:background="@color/black"
+            android:scrollbars="none" >
+
+            <com.yixia.camera.demo.ui.record.views.ThemeGroupLayout
+                android:id="@+id/themes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="horizontal" >
+            </com.yixia.camera.demo.ui.record.views.ThemeGroupLayout>
+        </HorizontalScrollView>
+
+        <HorizontalScrollView
+            android:id="@+id/filter_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1.0"
+            android:background="@color/black"
+            android:scrollbars="none"
+            android:visibility="gone" >
+
+            <com.yixia.camera.demo.ui.record.views.ThemeGroupLayout
+                android:id="@+id/filters"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="horizontal" >
+            </com.yixia.camera.demo.ui.record.views.ThemeGroupLayout>
+        </HorizontalScrollView>
+
+        <RadioGroup
+            android:id="@+id/main_radio"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="#1E1E1E"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/tab_theme"
+                style="@style/VideoEditTabStyle"
+                android:checked="true"
+                android:text="@string/record_preview_tab_theme" />
+
+            <RadioButton
+                android:id="@+id/tab_filter"
+                style="@style/VideoEditTabStyle"
+                android:text="@string/record_preview_tab_filter" />
+        </RadioGroup>
+    </LinearLayout>
+
+</LinearLayout>
