@@ -6,7 +6,7 @@
 如果你要问，微博的下一个时代是什么，互联网大佬会告诉你，**短视频**
 
 
-                ![微信小视频](http://a1.eoeandroid.com/attachment/forum/201507/15/161150dwgrgh8e0hmg2d8b.png)
+![微信小视频](http://a1.eoeandroid.com/attachment/forum/201507/15/161150dwgrgh8e0hmg2d8b.png)
 
 
 作为爱美的我们，怎么能把我们的窘态暴露给朋友圈的小伙伴呢，必须正能量！美好的！必须美化！
