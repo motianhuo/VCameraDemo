@@ -13,7 +13,7 @@
 So，录制小视频后，加各种滤镜，炫酷MV主题，妈妈再也不担心我的猪窝了...
 
     
- ![高仿微信 小视频](http://ww4.sinaimg.cn/bmiddle/6705567egw1eu17cdrxv1g20b30hhnpk.gif) 
+ ![高仿微信 小视频](http://a1.eoeandroid.com/attachment/forum/201507/15/160941j9ztbxxgdxqwxbnt.gif) 
 
 PS：gif 图片比较大，如果等不及的童鞋，可以[点击这里查看视频](http://video.weibo.com/show?fid=1034:b50abae7fe8bd291c5fac40d75a1028a)
 
