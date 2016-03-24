@@ -18,7 +18,7 @@ So，录制小视频后，加各种滤镜，炫酷MV主题，妈妈再也不担�
 PS：gif 图片比较大，如果等不及的童鞋，可以[点击这里查看视频](http://video.weibo.com/show?fid=1034:b50abae7fe8bd291c5fac40d75a1028a)
 
 
-Download Apk
+Download APK
 ===
 
 <a href="http://42.81.5.134/file3.data.weipan.cn/1078079/436bbc923e1886bc3c82c16ece8a98ddd8ae7a23?ip=1436780160,124.207.56.162&ssig=62aV9bk2ip&Expires=1436781930&KID=sae,l30zoo1wmz&fn=%E9%AB%98%E4%BB%BF%E5%BE%AE%E4%BF%A1.apk&skiprd=2&se_ip_debug=124.207.56.162&corp=2&from=1221134&wsiphost=local">
