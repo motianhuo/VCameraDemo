@@ -3,7 +3,7 @@
 微信从6.0版本开始推出小视频功能，随着4G网络的出现，视频将会是一个趋势，他能表达出文字所不能表现的东西，增加了微信的黏性。
 还记得微信小视频这个功能一推出，如同病毒一样席卷朋友圈。
 
-如果你要问，微博的下一个时代是什么，互联网大佬会告诉你，**短视频**
+2016年，4G时代到来，宣告正式进入视频元年，视频直播，短视频类的APP如火如荼， 如果你也正在寻找视频直播，短视频类APP的解决方案，可以下载来参考一下！
 
 
 ![微信小视频](http://a1.eoeandroid.com/attachment/forum/201507/15/161150dwgrgh8e0hmg2d8b.png)
@@ -22,6 +22,5 @@ Download Apk
 ===
 
 <a href="http://42.81.5.134/file3.data.weipan.cn/1078079/436bbc923e1886bc3c82c16ece8a98ddd8ae7a23?ip=1436780160,124.207.56.162&ssig=62aV9bk2ip&Expires=1436781930&KID=sae,l30zoo1wmz&fn=%E9%AB%98%E4%BB%BF%E5%BE%AE%E4%BF%A1.apk&skiprd=2&se_ip_debug=124.207.56.162&corp=2&from=1221134&wsiphost=local">
-  <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+  <img src="https://camo.githubusercontent.com/bdaf711a93d64d0bb5e5abfc346a8b84ea47f164/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f67656e657269632f656e2d706c61792d62616467652e706e67" alt="Get on google play" height="60" border="0" data-canonical-src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" style="max-width:100%;">
 </a>
